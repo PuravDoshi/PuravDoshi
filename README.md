@@ -3,7 +3,7 @@
 In addition to my interests and hobbies, I wish to develop innovative solutions to complex problems.
 With a combination of technical skills and a passion for innovation, I hope to make a significant impact in the field of AI/ML. I am excited to explore new opportunities and collaborate with like-minded professionals to drive progress and achieve meaningful results.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=puravdoshi&label=Profile%20views&color=0e75b6&style=flat" alt="puravdoshi" /> </p>
+
 
 
 
