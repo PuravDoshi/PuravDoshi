@@ -7,7 +7,7 @@ With a combination of technical skills and a passion for innovation, I hope to m
 
 
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 💬 Ask me about **Python, C, C++, EDA, Data Visualisation, Machine Learning, Artificial Intelligence**
 
