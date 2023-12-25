@@ -9,15 +9,10 @@ With a combination of technical skills and a passion for innovation, I hope to m
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Python, C, C++, EDA, Data Visualisation**
+- 💬 Ask me about **Python, C, C++, EDA, Data Visualisation, Machine Learning, Artificial Intelligence**
 
 - 📫 How to reach me **pndoshi07@gmail.com**
 
 - ⚡ Fun fact **You may heat a room with Gaming PCs more effectively than a heater.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/puravdoshi7124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="puravdoshi7124" height="30" width="40" /></a>
-<a href="https://instagram.com/purav_doshi_712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="purav_doshi_712" height="30" width="40" /></a>
-</p>
 
