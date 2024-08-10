@@ -20,5 +20,6 @@ With a combination of technical skills and a passion for innovation, I hope to m
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=puravdoshi&show_icons=true&locale=en&layout=compact" alt="puravdoshi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=puravdoshi&show_icons=true&locale=en" alt="puravdoshi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puravdoshi&" alt="puravdoshi" /></p>
+
 
